@@ -1,5 +1,5 @@
 
-# Snort - Live Attack Simulation
+# Snort - Live Attack Simulation :pig:
 
 This lab simulates a brute-force attack on a Virtual Machine (VM) provided by TryHackMe. Our objective is to analyze network traffic and packet logs using Snort, an Intrusion Detection System (IDS) and Intrusion Prevention System (IPS). Through this analysis, we aim to detect and assess potential security threats, enhancing our understanding of network security and intrusion detection techniques.
 
@@ -12,6 +12,11 @@ This lab simulates a brute-force attack on a Virtual Machine (VM) provided by Tr
 
 This project strengthens expertise in network security, intrusion detection, and proactive threat prevention, making it a valuable addition to a cybersecurity portfolio.
 
-See the PDF attachment below for documentation:
+See the PDF attachment for documentation :nerd_face:
+
+
+
+
+
 
 
