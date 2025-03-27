@@ -12,7 +12,7 @@ This lab simulates a brute-force attack on a Virtual Machine (VM) provided by Tr
 
 This project strengthens expertise in network security, intrusion detection, and proactive threat prevention, making it a valuable addition to a cybersecurity portfolio.
 
-<ins>See the PDF attachment for documentation</ins> :nerd_face:
+See the PDF attachment for [documentation](https://github.com/ShermanTreeDev/Snort---Live-Attack-Simulation/blob/c29c9094fcc0477ebbaf54a824205090d521cf01/Live_Attacks_Simulation_Project.pdf) :point_up::nerd_face:
 
 ![Snort Logo](https://github.com/ShermanTreeDev/Snort---Live-Attack-Simulation/blob/1fc6a67da1ee280faa0210e9971e3c38e0755c47/Snort_Logo.png)
 
