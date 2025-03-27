@@ -12,8 +12,7 @@ This lab simulates a brute-force attack on a Virtual Machine (VM) provided by Tr
 
 This project strengthens expertise in network security, intrusion detection, and proactive threat prevention, making it a valuable addition to a cybersecurity portfolio.
 
-See the PDF attachment for documentation :nerd_face:
-
+<ins>See the PDF attachment for documentation</ins> :nerd_face:
 
 
 
